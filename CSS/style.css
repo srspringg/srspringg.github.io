@@ -1,0 +1,23 @@
+p{
+  color: blue;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29.124 px;
+  font-family: 'Lora', serif;
+}
+body {
+  background-color: #e8e4d5;
+}
+h1{
+  color: black;
+  text-align: center;
+  font-size: 800 px;
+  font-weight: 700;
+  font-family: 'Timmana', sans-serif;
+}
+.special {
+  font-weight: 700;
+}
+img source {
+  align-content: center;
+}
