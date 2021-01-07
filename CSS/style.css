@@ -1,0 +1,36 @@
+p{
+  color: black;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28 px;
+  font-family: 'Inter', sans-serif;
+}
+body {
+  background-color: #f2f7fa;
+}
+h1{
+  color: black;
+  text-align: center;
+  font-size: 800 px;
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+}
+h2{
+  text-align: center;
+}
+.special {
+  font-weight: 700;
+}
+.image_section{
+  text-align: center;
+}
+img{
+  height: auto;
+  width: 90%;
+}
+.intro_paragraph{
+  margin-top: 40 px;
+}
+.image_container{
+  margin-bottom: 30 px;
+}
